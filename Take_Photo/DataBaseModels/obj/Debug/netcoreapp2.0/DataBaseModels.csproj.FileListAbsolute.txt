@@ -1,0 +1,6 @@
+C:\Users\Aimur\Documents\GitHub\Take_Photo\Take_Photo\DataBaseModels\bin\Debug\netcoreapp2.0\DataBaseModels.deps.json
+C:\Users\Aimur\Documents\GitHub\Take_Photo\Take_Photo\DataBaseModels\bin\Debug\netcoreapp2.0\DataBaseModels.dll
+C:\Users\Aimur\Documents\GitHub\Take_Photo\Take_Photo\DataBaseModels\obj\Debug\netcoreapp2.0\DataBaseModels.csprojAssemblyReference.cache
+C:\Users\Aimur\Documents\GitHub\Take_Photo\Take_Photo\DataBaseModels\obj\Debug\netcoreapp2.0\DataBaseModels.csproj.CoreCompileInputs.cache
+C:\Users\Aimur\Documents\GitHub\Take_Photo\Take_Photo\DataBaseModels\obj\Debug\netcoreapp2.0\DataBaseModels.AssemblyInfoInputs.cache
+C:\Users\Aimur\Documents\GitHub\Take_Photo\Take_Photo\DataBaseModels\obj\Debug\netcoreapp2.0\DataBaseModels.AssemblyInfo.cs
